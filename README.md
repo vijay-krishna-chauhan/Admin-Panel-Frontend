@@ -1,3 +1,11 @@
+Install the followings:
+or follow the steps
+
+1. npm i
+2. npm i axios
+3. npm i react-router-dom
+4. npm i tailwindcss
+5. npm i dotenv
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
